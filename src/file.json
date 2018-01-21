@@ -1,0 +1,10 @@
+{
+  "errorStatus": 400,
+  "errorResponse": {
+    "password": [
+      "Password's length should be 6 to 25 characters",
+      "Password cannot be blank"
+    ]
+  },
+  "message": "Input validation error occurred"
+}
